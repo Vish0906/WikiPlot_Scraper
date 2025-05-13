@@ -1,4 +1,4 @@
-# 🎬 WikiPlot Trivia Generator
+# 🎬 Wikipedia Plot Question Generator
 
 This script fetches the plot of a Telugu movie from Wikipedia and uses the LLaMA-3 model with a Groq API Endpoint to generate unique trivia questions based on the plot.
 
