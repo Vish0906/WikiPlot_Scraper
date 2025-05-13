@@ -34,4 +34,3 @@ Final questions are saved in a DataFrame:
 
 ## Note
 - Works best for Telugu movies with a proper Plot section on Wikipedia
-- Requires an active internet connection and valid Groq API key
