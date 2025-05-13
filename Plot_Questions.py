@@ -73,8 +73,8 @@ plot_data = get_wikipedia_plot(linko)  # Replace with any movie title
 ########        PLOT TEXT TO LLM.     ########
 from getpass import getpass
 
-GROQ_API_KEY = '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'
-#GROQ_API_KEY = 'Your API Key here'
+
+GROQ_API_KEY = 'Your API Key here'
 os.environ['GROQ_API_KEY'] = GROQ_API_KEY
 
 def generate_questions(text, movie_name, num_questions=7):
